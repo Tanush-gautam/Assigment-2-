@@ -1,0 +1,21 @@
+#first {
+  font-family: "Copperplate", serif;
+  color: orangered;
+  text-align: center;
+}
+
+.second {
+  font-family: "times new roman", curasive;
+color: chartreuse;
+}
+
+.third{
+  font-family: "courier New", monospace;
+  color: khaki;
+}
+
+.fourth{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
