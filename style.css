@@ -2,16 +2,19 @@
   font-family: "Copperplate", serif;
   color: orangered;
   text-align: center;
+  font-size:100px; 
 }
 
 .second {
   font-family: "times new roman", curasive;
   color: chartreuse;
+  font-size:60px;
 }
 
 .third {
   font-family: "courier New", monospace;
   color: khaki;
+  font-size:40px; 
 }
 
 .fourth {
